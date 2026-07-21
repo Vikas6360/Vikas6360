@@ -1,71 +1,40 @@
 Hi 👋, I'm Vikas S M
 
-🚀 Aspiring Cloud & DevOps Engineer
+🚀 Cloud & DevOps Enthusiast | Java Full Stack Developer
 
-I'm a final-year Computer Science Engineering student passionate about Cloud Computing, DevOps, and Automation. I enjoy building scalable applications, automating deployments, and learning modern cloud technologies.
+I'm a final-year Computer Science Engineering student passionate about Cloud Computing, DevOps, and Java Full Stack Development. I enjoy building scalable applications, automating deployments, and exploring modern cloud technologies.
 
 ---
 
 👨‍💻 About Me
 
 - 🎓 Final-year B.E. Computer Science Engineering student
-- ☁️ Aspiring Cloud & DevOps Engineer
+- ☁️ Interested in Cloud Computing, DevOps, and Java Full Stack Development
 - 🌱 Currently learning AWS, Kubernetes, Terraform, Ansible, and Monitoring
-- 💻 Interested in CI/CD, Infrastructure as Code, Cloud Computing, and Automation
+- 💻 Passionate about CI/CD, Infrastructure as Code, Backend Development, and Automation
 - 📍 Bangalore, Karnataka, India
 
 ---
 
 🛠️ Tech Stack
 
-Cloud
+Cloud: AWS
 
-- AWS
+DevOps: Docker, Kubernetes, Jenkins, Terraform, Ansible
 
-DevOps
+Programming: Java, Shell Scripting, JavaScript
 
-- Docker
-- Kubernetes
-- Jenkins
-- Terraform
-- Ansible
+Backend: Spring Boot
 
-Programming
+Database: MySQL
 
-- Java
-- Shell Scripting
+Build & Version Control: Maven, Git, GitHub
 
-Backend
+Web Technologies: HTML, CSS, JavaScript
 
-- Spring Boot
+Web Servers: Tomcat, Nginx
 
-Database
-
-- MySQL
-
-Build & Version Control
-
-- Maven
-- Git
-- GitHub
-
-Web Technologies
-
-- HTML
-- CSS
-- JavaScript
-
-Web Servers
-
-- Tomcat
-- Nginx
-
-Operating Systems & Tools
-
-- Linux (Ubuntu)
-- MobaXterm
-- Eclipse IDE
-- VS Code
+Operating Systems & Tools: Linux (Ubuntu), MobaXterm, Eclipse IDE, VS Code
 
 ---
 
@@ -73,20 +42,19 @@ Operating Systems & Tools
 
 📚 Student Management System
 
-- Developed using Spring Boot and MySQL
-- Containerized using Docker
-- Automated CI/CD with Jenkins
-- Deployed on Kubernetes
-- Hosted on AWS EC2
-- Implemented Infrastructure as Code using Terraform
-- Configured deployments using Ansible
+- Built using Spring Boot and MySQL
+- Containerized with Docker
+- Automated CI/CD using Jenkins
+- Deployed on Kubernetes and AWS EC2
+- Provisioned infrastructure using Terraform
+- Automated deployment using Ansible
 
 📖 BookStore Web Application
 
-- Built using HTML, CSS, and JavaScript
-- Containerized with Docker
-- Automated deployment using Jenkins
-- Served using Nginx
+- Developed using HTML, CSS, JavaScript
+- Containerized using Docker
+- Automated deployment with Jenkins
+- Hosted using Nginx
 
 ---
 
@@ -100,19 +68,7 @@ Operating Systems & Tools
 
 🌱 Currently Learning
 
-- AWS Services
-- Kubernetes
-- Terraform
-- Ansible
-- Prometheus
-- Grafana
-- GitHub Actions
-
----
-
-🎯 Career Objective
-
-Seeking opportunities as a Cloud/DevOps Engineer where I can apply my knowledge of AWS, Docker, Kubernetes, Jenkins, Terraform, and automation to build reliable and scalable infrastructure.
+AWS • Kubernetes • Terraform • Ansible • Prometheus • Grafana • GitHub Actions
 
 ---
 
@@ -121,7 +77,5 @@ Seeking opportunities as a Cloud/DevOps Engineer where I can apply my knowledge 
 - 📧 Email: vikas.sm732@gmail.com
 - 💼 LinkedIn: linkedin.com/in/vikas-sm63
 - 💻 GitHub: github.com/Vikas6360
-
----
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
