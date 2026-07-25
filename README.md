@@ -12,8 +12,6 @@ I am a **Cloud & DevOps Engineer** and **Java Full Stack Developer** passionate 
 
 My hands-on experience includes working with **AWS, Docker, Kubernetes, Jenkins, Terraform, Ansible, Linux, Git, GitHub, Java, Spring Boot, REST APIs, MySQL, and CI/CD automation**. I enjoy building containerized applications, provisioning cloud infrastructure, and streamlining software delivery through automation.
 
-During my internship, I worked on deploying applications to AWS, building CI/CD pipelines with Jenkins, managing Kubernetes deployments, writing Infrastructure as Code with Terraform, and automating server configuration using Ansible. These experiences strengthened my understanding of modern DevOps practices and cloud-native application deployment.
-
 I am continuously expanding my knowledge in cloud technologies and DevOps while focusing on building secure, scalable, and reliable solutions that solve real-world problems.
 
 ---
@@ -90,26 +88,6 @@ During my internship, I gained practical experience in Java Full Stack Developme
 - Worked with AWS services including EC2, IAM, VPC, S3, RDS, Load Balancer, and Auto Scaling.
 - Managed source code using Git and GitHub.
 - Worked in Linux (Ubuntu) environments and created Bash scripts for automation.
-
----
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vikas6360&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Vikas6360&theme=radical&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas6360&layout=compact&theme=radical&hide_border=true"/>
-
-</p>
 
 ---
 
