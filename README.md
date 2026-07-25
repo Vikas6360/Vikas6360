@@ -1,53 +1,81 @@
+Hi 👋, I'm Vikas S M
 
-Name
-Vikas S M
+🚀 Cloud & DevOps Enthusiast | Java Full Stack Developer
 
-Professional Role
-Cloud & DevOps Engineer | Java Full Stack Developer
+I'm a final-year Computer Science Engineering student passionate about Cloud Computing, DevOps, and Java Full Stack Development. I enjoy building scalable applications, automating deployments, and exploring modern cloud technologies.
 
-Education
-B.E. Computer Science & Engineering
-Vivekananda Institute of Technology (VTU)
+---
 
-GitHub Username
-Vikas6360
+👨‍💻 About Me
 
-GitHub
-https://github.com/Vikas6360
+- 🎓 Final-year B.E. Computer Science Engineering student
+- ☁️ Interested in Cloud Computing, DevOps, and Java Full Stack Development
+- 🌱 Currently learning AWS, Kubernetes, Terraform, Ansible, and Monitoring
+- 💻 Passionate about CI/CD, Infrastructure as Code, Backend Development, and Automation
+- 📍 Bangalore, Karnataka, India
 
-LeetCode Username
-(Remove this section if you don't have a profile)
+---
 
-LinkedIn
-https://www.linkedin.com/in/vikas-sm63
+🛠️ Tech Stack
 
-Email
-vikas.sm732@gmail.com
+Cloud: AWS
 
-Portfolio
-https://github.com/Vikas6360
+DevOps: Docker, Kubernetes, Jenkins, Terraform, Ansible
 
-Skills
-Java, Advanced Java, JDBC, Servlets, JSP, Spring Boot, Spring Security, REST APIs, Thymeleaf, HTML5, CSS3, JavaScript, Linux, Bash, AWS (EC2, IAM, S3, VPC, RDS, Auto Scaling, Load Balancing, CloudWatch), Docker, Kubernetes, Jenkins, Terraform, Ansible, Git, GitHub, Maven, MySQL, Redis, Nginx, Apache Tomcat, CI/CD
+Programming: Java, Shell Scripting, JavaScript
 
-Projects
-• Student Management System (Spring Boot + MySQL + Docker + Jenkins + Kubernetes)
-• BookStore Deployment using Jenkins, Docker, Ansible & AWS
-• Kubernetes Blue-Green Deployment
-• Terraform AWS Infrastructure
-• CI/CD Automation Pipeline
+Backend: Spring Boot
 
-Achievements
-• Built end-to-end Cloud & DevOps projects
-• Automated deployments using Jenkins and Ansible
-• Deployed containerized applications on Kubernetes
-• Implemented Infrastructure as Code using Terraform
-• Developed Java Full Stack applications with Spring Boot
+Database: MySQL
 
-Certifications
-• IBM Cloud Computing Fundamentals
-• Cisco Linux Essentials
-• IBM AI Fundamentals
+Build & Version Control: Maven, Git, GitHub
 
-Experience
-Java Full Stack with DevOps Internship
+Web Technologies: HTML, CSS, JavaScript
+
+Web Servers: Tomcat, Nginx
+
+Operating Systems & Tools: Linux (Ubuntu), MobaXterm, Eclipse IDE, VS Code
+
+---
+
+🚀 Featured Projects
+
+📚 Student Management System
+
+- Built using Spring Boot and MySQL
+- Containerized with Docker
+- Automated CI/CD using Jenkins
+- Deployed on Kubernetes and AWS EC2
+- Provisioned infrastructure using Terraform
+- Automated deployment using Ansible
+
+📖 BookStore Web Application
+
+- Developed using HTML, CSS, JavaScript
+- Containerized using Docker
+- Automated deployment with Jenkins
+- Hosted using Nginx
+
+---
+
+📜 Certifications
+
+- IBM Cloud Computing Fundamentals
+- Cisco Linux Essentials
+- Java Full Stack with DevOps Training
+
+---
+
+🌱 Currently Learning
+
+AWS • Kubernetes • Terraform • Ansible • Prometheus • Grafana • GitHub Actions
+
+---
+
+📫 Connect With Me
+
+- 📧 Email: vikas.sm732@gmail.com
+- 💼 LinkedIn: linkedin.com/in/vikas-sm63
+- 💻 GitHub: github.com/Vikas6360
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
