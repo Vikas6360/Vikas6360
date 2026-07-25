@@ -123,12 +123,6 @@ I am eager to contribute to innovative teams, solve real-world engineering chall
 ---
 # 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vikas6360&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Vikas6360?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Vikas6360?affiliations=OWNER&style=for-the-badge" />
-</p>
-
 ---
 
 <p align="center">
