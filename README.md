@@ -26,12 +26,6 @@
 
 </p>
 
-![](https://komarev.com/ghpvc/?username=Vikas6360&style=for-the-badge&color=blueviolet)
-
-![](https://img.shields.io/github/followers/Vikas6360?style=for-the-badge)
-
-![](https://img.shields.io/github/stars/Vikas6360?style=for-the-badge)
-
 </div>
 
 ---
