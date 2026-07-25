@@ -1,8 +1,3 @@
-<!-- ========================= Banner ========================= -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Vikas%20S%20M&fontAlign=50&fontAlignY=40&desc=Cloud%20&%20DevOps%20Engineer%20|%20Java%20Full%20Stack%20Developer&descAlign=50&descAlignY=58&animation=fadeIn" />
-</p>
 
 <!-- ========================= Typing SVG ========================= -->
 
@@ -85,21 +80,6 @@ Build Tool: Maven
 
 ---
 
-### 💻 Technologies I Work With
-
-| Category | Technologies |
-|-----------|--------------|
-| **Programming Languages** | Java, JavaScript, HTML, CSS, Bash |
-| **Backend** | Spring Boot, REST APIs |
-| **Cloud** | AWS |
-| **DevOps** | Docker, Kubernetes, Jenkins, Terraform, Ansible |
-| **Version Control** | Git, GitHub |
-| **Databases** | MySQL, Redis |
-| **Operating System** | Linux (Ubuntu) |
-| **Build Tool** | Maven |
-| **Web Servers** | Nginx, Apache Tomcat |
-| **Tools** | VS Code, Eclipse IDE, Postman |
-
 ---
 # 💼 Internship Experience
 
@@ -180,13 +160,3 @@ I am eager to contribute to innovative teams, solve real-world engineering chall
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </h3>
-
-<p align="center">
-If you like my work, consider giving a ⭐ to my repositories.
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
