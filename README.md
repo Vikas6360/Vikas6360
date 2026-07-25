@@ -1,81 +1,78 @@
-Hi 👋, I'm Vikas S M
+<div align="center">
 
-🚀 Cloud & DevOps Enthusiast | Java Full Stack Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F5AF0,50:4F46E5,100:3B82F6&text=Vikas%20S%20M&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn"/>
 
-I'm a final-year Computer Science Engineering student passionate about Cloud Computing, DevOps, and Java Full Stack Development. I enjoy building scalable applications, automating deployments, and exploring modern cloud technologies.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;Java+Full+Stack+Developer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Jenkins;Building+Scalable+Cloud+Solutions;Always+Learning+Modern+Technologies)](https://git.io/typing-svg)
 
----
+<p>
+<img src="https://img.shields.io/badge/B.E-CSE-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VTU-2026-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bengaluru-India-7F5AF0?style=for-the-badge"/>
+</p>
 
-👨‍💻 About Me
+<p>
 
-- 🎓 Final-year B.E. Computer Science Engineering student
-- ☁️ Interested in Cloud Computing, DevOps, and Java Full Stack Development
-- 🌱 Currently learning AWS, Kubernetes, Terraform, Ansible, and Monitoring
-- 💻 Passionate about CI/CD, Infrastructure as Code, Backend Development, and Automation
-- 📍 Bangalore, Karnataka, India
+<a href="https://github.com/Vikas6360">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
----
+<a href="https://www.linkedin.com/in/vikas-sm-58434b2ba/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-🛠️ Tech Stack
+<a href="mailto:vikas.sm732@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Cloud: AWS
+</p>
 
-DevOps: Docker, Kubernetes, Jenkins, Terraform, Ansible
+![](https://komarev.com/ghpvc/?username=Vikas6360&style=for-the-badge&color=blueviolet)
 
-Programming: Java, Shell Scripting, JavaScript
+![](https://img.shields.io/github/followers/Vikas6360?style=for-the-badge)
 
-Backend: Spring Boot
+![](https://img.shields.io/github/stars/Vikas6360?style=for-the-badge)
 
-Database: MySQL
-
-Build & Version Control: Maven, Git, GitHub
-
-Web Technologies: HTML, CSS, JavaScript
-
-Web Servers: Tomcat, Nginx
-
-Operating Systems & Tools: Linux (Ubuntu), MobaXterm, Eclipse IDE, VS Code
+</div>
 
 ---
 
-🚀 Featured Projects
+# 👋 Hi, I'm Vikas S M
 
-📚 Student Management System
+### Cloud & DevOps Engineer | Java Full Stack Developer
 
-- Built using Spring Boot and MySQL
-- Containerized with Docker
-- Automated CI/CD using Jenkins
-- Deployed on Kubernetes and AWS EC2
-- Provisioned infrastructure using Terraform
-- Automated deployment using Ansible
+I'm passionate about designing scalable cloud infrastructure, automating deployments, and developing production-ready Java applications.
 
-📖 BookStore Web Application
+My expertise includes Java Full Stack Development, AWS, Docker, Kubernetes, Jenkins, Terraform, Ansible, Linux, Spring Boot, CI/CD, and Infrastructure as Code.
 
-- Developed using HTML, CSS, JavaScript
-- Containerized using Docker
-- Automated deployment with Jenkins
-- Hosted using Nginx
+I enjoy solving real-world infrastructure challenges, building reliable deployment pipelines, and continuously learning modern cloud-native technologies.
+
+My goal is to become a highly skilled Cloud & DevOps Engineer while contributing to scalable, secure, and high-performance software systems.
 
 ---
 
-📜 Certifications
+# 🚀 About Me
 
-- IBM Cloud Computing Fundamentals
-- Cisco Linux Essentials
-- Java Full Stack with DevOps Training
+- 🎓 B.E. Computer Science & Engineering (VTU)
+- 📍 Bengaluru, Karnataka, India
+- ☁️ Cloud & DevOps Enthusiast
+- ☕ Java Full Stack Developer
+- 🐧 Linux Enthusiast
+- ⚙️ Automation First Mindset
+- 🚀 Passionate about CI/CD & Cloud Native Technologies
+- 📚 Currently learning Kubernetes, Terraform, Monitoring & GitHub Actions
 
 ---
 
-🌱 Currently Learning
+## 🌟 Open To
 
-AWS • Kubernetes • Terraform • Ansible • Prometheus • Grafana • GitHub Actions
+✔ Cloud Engineer
+
+✔ DevOps Engineer
+
+✔ Java Full Stack Developer
+
+✔ Site Reliability Engineer (Entry Level)
+
+✔ Open Source Collaboration
 
 ---
-
-📫 Connect With Me
-
-- 📧 Email: vikas.sm732@gmail.com
-- 💼 LinkedIn: linkedin.com/in/vikas-sm63
-- 💻 GitHub: github.com/Vikas6360
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
