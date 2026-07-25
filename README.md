@@ -93,27 +93,9 @@ During my internship, I gained practical experience in Java Full Stack Developme
 
 ---
 
-## 🏆 Certifications
-
-| Certification | Organization |
-|--------------|--------------|
-| IBM Cloud Computing Fundamentals | IBM |
-| IBM AI Fundamentals | IBM |
-| Linux Essentials | Cisco |
-
 ---
 
 ## 📈 GitHub Statistics
-
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=Vikas6360&label=Profile%20Views&color=0e75b6&style=flat" />
-
-<img src="https://img.shields.io/github/followers/Vikas6360?label=Followers&style=flat" />
-
-<img src="https://img.shields.io/github/stars/Vikas6360?affiliations=OWNER&style=flat" />
-
-</p>
 
 <p align="center">
 
@@ -133,7 +115,6 @@ During my internship, I gained practical experience in Java Full Stack Developme
 
 ## 💬 Quote
 
-> *"Automate repetitive tasks, build reliable systems, and never stop learning."*
-| **Tools** | VS Code, Eclipse IDE, Postman |
+> *"Automate with purpose, build with reliability, and keep improving every day."*
 
 ---
