@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vikas S M
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=E63946&width=850&lines=Cloud+%26+DevOps+Engineer;Java+Full+Stack+Developer;AWS+%7C+Docker+%7C+Kubernetes;Building+Cloud-Native+Applications;Always+Learning+New+Technologies" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=E63946&width=850&lines=Cloud+%26+DevOps+Engineer;Java+Full+Stack+Developer;AWS+%7C+Docker+%7C+Kubernetes;Building+Cloud-Native+Applications;CI/CD+|+Terraform+|+Ansible" alt="Typing SVG"/>
 </p>
 
 ---
@@ -10,9 +10,9 @@
 
 I am a **Cloud & DevOps Engineer** and **Java Full Stack Developer** passionate about designing scalable cloud infrastructure, automating deployments, and developing modern backend applications.
 
-My hands-on experience includes working with **AWS, Docker, Kubernetes, Jenkins, Terraform, Ansible, Linux, Git, GitHub, Java, Spring Boot, REST APIs, MySQL, and CI/CD automation**. I enjoy building containerized applications, provisioning cloud infrastructure, and streamlining software delivery through automation.
+My hands-on experience includes working with **AWS, Docker, Kubernetes, Jenkins, Terraform, Ansible, Linux, Git, GitHub, Java, Spring Boot, REST APIs, MySQL, and CI/CD automation**. I enjoy building containerized applications, provisioning cloud infrastructure, automating CI/CD pipelines, and streamlining software delivery using modern DevOps practices.
 
-I am continuously expanding my knowledge in cloud technologies and DevOps while focusing on building secure, scalable, and reliable solutions that solve real-world problems.
+I am committed to continuously improving my knowledge of cloud technologies and DevOps while focusing on building secure, scalable, and reliable solutions for modern applications.
 
 ---
 
@@ -21,17 +21,19 @@ I am continuously expanding my knowledge in cloud technologies and DevOps while 
 <p align="left">
 
 <a href="https://github.com/Vikas6360">
-<img src="https://skillicons.dev/icons?i=github" width="20"/> GitHub
+<img src="https://skillicons.dev/icons?i=github" width="22"/> <b>GitHub</b>
 </a>
-&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/vikas-sm-58434b2ba/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="20"/> LinkedIn
+<img src="https://skillicons.dev/icons?i=linkedin" width="22"/> <b>LinkedIn</b>
 </a>
-&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:vikas.sm732@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="20"/> Email
+<img src="https://skillicons.dev/icons?i=gmail" width="22"/> <b>Email</b>
 </a>
 
 </p>
@@ -46,7 +48,7 @@ I am continuously expanding my knowledge in cloud technologies and DevOps while 
 | **Location** | Bengaluru, Karnataka, India |
 | **Programming Languages** | Java, JavaScript, HTML, CSS, Bash |
 | **Backend** | Spring Boot, REST APIs |
-| **Cloud** | AWS |
+| **Cloud** | AWS (EC2, IAM, VPC, S3, RDS, Load Balancer, Auto Scaling) |
 | **DevOps** | Docker, Kubernetes, Jenkins, Terraform, Ansible |
 | **Version Control** | Git, GitHub |
 | **Databases** | MySQL, Redis |
@@ -54,16 +56,18 @@ I am continuously expanding my knowledge in cloud technologies and DevOps while 
 | **Build Tool** | Maven |
 | **Web Servers** | Nginx, Apache Tomcat |
 
+---
+
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,aws,docker,kubernetes,jenkins,terraform,ansible,git,github,linux,bash,maven,mysql,redis,vscode,eclipse,postman" />
-</p>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" alt="Nginx"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="50" alt="Apache Tomcat"/>
+<img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,aws,docker,kubernetes,jenkins,terraform,ansible,git,github,linux,bash,maven,mysql,redis,vscode,eclipse,postman&perline=11" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" alt="Nginx"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="48" alt="Apache Tomcat"/>
+
 </p>
 
 ---
@@ -75,7 +79,7 @@ I am continuously expanding my knowledge in cloud technologies and DevOps while 
 
 During my internship, I gained practical experience in Java Full Stack Development and DevOps by working on application development, cloud deployments, automation, and CI/CD workflows.
 
-### Responsibilities
+### Key Responsibilities
 
 - Developed Java applications using Core Java and Spring Boot.
 - Built responsive user interfaces using HTML, CSS, and JavaScript.
@@ -93,6 +97,6 @@ During my internship, I gained practical experience in Java Full Stack Developme
 
 ## 💬 Quote
 
-> *"Automate with purpose, build with reliability, and keep improving every day."*
+> **"Automate with purpose, build with reliability, and keep improving every day."**
 
 ---
