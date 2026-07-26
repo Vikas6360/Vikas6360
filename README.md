@@ -16,27 +16,7 @@ I am committed to continuously improving my knowledge of cloud technologies and 
 
 ---
 
-## 🌐 Connect
-
-<p align="left">
-
-<a href="https://github.com/Vikas6360">
-<img src="https://skillicons.dev/icons?i=github" width="22"/> <b>GitHub</b>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/vikas-sm-58434b2ba/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="22"/> <b>LinkedIn</b>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:vikas.sm732@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="22"/> <b>Email</b>
-</a>
-
-</p>
+## 🌐 Connect <p align="left"> <a href="https://github.com/Vikas6360"> <img src="https://skillicons.dev/icons?i=github" width="20"/> GitHub </a> &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/vikas-sm-58434b2ba/"> <img src="https://skillicons.dev/icons?i=linkedin" width="20"/> LinkedIn </a> &nbsp;&nbsp;&nbsp; <a href="mailto:vikas.sm732@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="20"/> Email </a> </p>
 
 ---
 
@@ -62,7 +42,7 @@ I am committed to continuously improving my knowledge of cloud technologies and 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,aws,docker,kubernetes,jenkins,terraform,ansible,git,github,linux,bash,maven,mysql,redis,vscode,eclipse,postman&perline=11" />
+<img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,aws,docker,kubernetes,jenkins,terraform,ansible,git,github,linux,bash,maven,mysql,redis,vscode,eclipse,postman&perline=12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" alt="Nginx"/>
 
